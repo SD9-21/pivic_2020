@@ -1,1 +1,13 @@
+title: PIVIC 2020
+description: Uma Análise de correlação estatística entre dados da rede EMBRACE e imagens solares da SOHO/NASA
+
+#Build settings
+github:
+  repo_url: https://github.com/sd9-21/pivic_2020
+  owner_url: https://github.com/sd9-21
+  owner_name: SD9-21
+  baseurl: /pivic_2020
+#plugins:
+#  - jekyll-feed
+#  - jekyll-github-metadata
 theme: jekyll-theme-minimal
