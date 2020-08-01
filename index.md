@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Análise de correlação estatística entre dados da rede EMBRACE e imagens solares da SOHO/NASA
 
-You can use the [editor on GitHub](https://github.com/SD9-21/pivic_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A maioria das tempestades solares produzem apenas pequenas perturbações na Terra como pequenas variações momentâneas da alimentação das redes de energia elétrica, interferência na comunicação entre aparelhos eletrônicos, necessidade de novo traçado de rotas para aeronaves, perda de alguns satélites e belíssimas auroras boreal e austral. Mas uma tempestade solar pode ter a capacidade de causar grandes desastres na Terra caso se torne maior. A tempestade solar de setembro de 1859, que ficou conhecida como \textit{Carrington Flare} (Labareda de Carrington) foi um exemplo \cite{Carrington}. Outro exemplo aconteceu em julho de 2000, quando o governo japonês lançou um satélite telescópio, parte de programa de astronomia, que sofreu danos irreversíveis após ser pego por uma tempestade solar \cite{Dennis}.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Existem hoje dois sistemas de captura de informações relacionadas à influência solar na Terra e ao comportamento do sol que são de interesse deste trabalho: a Rede Embrace de Magnetômetros (Embrace MagNet), uma rede de sensores posicionados estrategicamente por toda a América Latina; e os satélites posicionados orbitando a Terra, capturando dados através de sensores gerando imagens, no projeto de estudos solar da NASA, SOHO (Solar and Heliospheric Observatory).
+
+A previsibilidade dos dados é fundamental para o sistema de alertas de tempestade solares, já existente no Brasil, por meio da Embrace MagNet. Além de ser uma fonte de dados muito importante na crescente pesquisa e entendimento dos fenômenos eletromagnéticos do nosso planeta e do sistema Solar.
+
+Pensando nisso, o objetivo deste trabalho é demonstrar e mensurar o grau de confiabilidade da correlação entre os dados dos dois sistemas de captura de informações solares, utilizando um modelo de RNA (Redes Neurais Artificiais). Se houver essa correlação, consideramos ser possível fazer modelos preditivos permitindo nos preparar para eventuais perturbações. Tal preparação seria fundamental na prevenção de danos uma vez que as tempestades solares viajam na velocidade da luz, dando-nos uma janela de tempo muito pequena de ação (em torno de oito minutos para chegar a Terra).
 
 ### Markdown
 
